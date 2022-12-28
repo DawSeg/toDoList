@@ -1,7 +1,10 @@
 body {
-  background-color: yellow;
+  background-color: green;
   text-align: center;
-  font-size: 24px;
+}
+
+.todo {
+  cursor: pointer;
 }
 
 /*# sourceMappingURL=style.css.map */
